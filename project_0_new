@@ -12,7 +12,7 @@
         <h2 title="My role:" style="text-align: center;">Web devoleber </h2>
         <hr>
     </header>
-    <div class="container" style="text-align: center;"> <!-- the div for the table : -->
+    <div class="main" style="text-align: center;"> <!-- the div for the table : -->
         <table  border="">
             <thead>
                 <tr>
