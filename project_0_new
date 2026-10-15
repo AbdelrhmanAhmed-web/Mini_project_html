@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>project_0_new</title>
+</head>
+
+<body>
+    <head> <!-- this is the div for the head :-->
+        <h1 title="My name:" style="text-align: center;">Abdelrhman Ahmed</h1>
+        <h2 title="My role:" style="text-align: center;">Web devoleber </h2>
+        <hr>
+    </head>
+    <div class="container" style="text-align: center;"> <!-- the div for the table : -->
+        <table  border="">
+            <thead>
+                <tr>
+                    <td>Qualification:</td>
+                    <td>Hobies and skills:</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Bachelors Degree Information System</td>
+                    <td>Going to the gym</td>
+                </tr>
+
+                <tr>
+                    <td>Data Analysis Cources</td>
+                    <td>SQL</td>
+
+                </tr>
+                <tr>
+                    <td>Python For Data Analysis</td>
+                    <td>Excel</td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+        <br>
+        <br>
+        <br>
+        <hr>
+
+        <footer style="text-align: center;"><small>@all rights reserved</small></footer> <!-- the div footer (the end of the page)-->
+</body>
+
+</html>
