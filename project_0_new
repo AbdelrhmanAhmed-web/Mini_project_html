@@ -7,11 +7,11 @@
 </head>
 
 <body>
-    <head> <!-- this is the div for the head :-->
+    <header> <!-- this is the div for the header :-->
         <h1 title="My name:" style="text-align: center;">Abdelrhman Ahmed</h1>
         <h2 title="My role:" style="text-align: center;">Web devoleber </h2>
         <hr>
-    </head>
+    </header>
     <div class="container" style="text-align: center;"> <!-- the div for the table : -->
         <table  border="">
             <thead>
