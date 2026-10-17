@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project_1</title>
+    <link rel="stylesheet" href="Style_project_1.css">
+</head>
+<body>
+    <header >
+        <H1 class="my_name" title="My Name"> Abdelrhman Ahmed</H1>
+        <h2 class="my_role" title="My Role"> Web_Devolober</h2>
+        <hr>
+    </header>
+    
+    <div class="parent">
+        
+            <h3 class="hobbies">hobbies:</h3>
+            <h5 class="hobbies">1-GYM</h5>
+            <h5 class="hobbies">2-Video Games</h5>
+            <h5 class="hobbies">3-learning new things</h5>
+        
+     </div>
+    
+    <hr>
+    <div class="college_info">
+        <h3 class="college_title">College Information:</h3>
+        <span>College Info: Prinse Sattam bin AbdulAziz,</span>
+        <span>Location: Al-Kharj City</span>
+        <span class="G_Y_C"> Graduated year : 2025</span>
+        <p class="break0">-----------</p>
+        <h4 class="skills_qualifications">Skills and Qualification:</h4>
+        <p class="break1">-----------</p>
+        <ol>
+            <li>Excel</li>
+            <li>Python</li>
+            <li>SQL</li>
+            <li>HTML</li>
+            <li>CSS</li>
+
+        </ol>
+        <hr>
+        
+    </div>
+    <hr>
+    <div class="School_info">
+        <h3 class="school_title">School Information:</h3>
+        <span>School_info: AlAbnaa high school,Location:Riyadh city</span>
+        <span class="g_school">Year graduated: 2020</span>
+        <br>
+        <br>
+        <hr>
+    </div>
+
+    <footer>
+        <p>@all rights reserved</p>
+    </footer>
+
+    
+</body>
+</html>
