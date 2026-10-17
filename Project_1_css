@@ -1,0 +1,57 @@
+.my_name{
+    text-align: center;
+    font-weight: bolder;
+    
+}
+.my_role{
+    text-align: center;
+    color: yellow;
+    font-style: italic;
+}
+
+.college_info,.School_info{
+    position: relative;
+    background-color: blueviolet;
+}
+.G_Y_C,.g_school{
+    position: absolute;
+    right: 0;
+}
+footer{
+    text-align: center;
+    font-size: small;
+    color: white;
+    
+    font-weight: lighter;
+}
+.skills_qualifications{
+    
+    font-style: italic;
+}
+.break0{
+    text-align: center;
+}
+.college_title,.school_title{
+    text-align: center;
+}
+
+.parent{
+    width: 100%;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+}
+.hobbies{
+   background-color: azure;
+   width: fit-content;
+   padding: 15px;
+    
+}
+
+header{
+    background-color: aqua;
+}
+body{
+    background-color: black;
+    
+}
